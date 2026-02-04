@@ -60,7 +60,7 @@ export function LocationSection() {
                 <div className="w-12 h-12 bg-primary/10 rounded-2xl flex items-center justify-center">
                   <MapPin className="w-6 h-6 text-primary" />
                 </div>
-                <h3 className="text-foreground font-bold text-xl">Var Plats</h3>
+                <h3 className="text-foreground font-bold text-xl">Vår Plats</h3>
               </div>
               <div className="p-6 bg-gradient-to-r from-muted to-transparent rounded-2xl border border-border/50">
                 <div className="flex items-start gap-4">
