@@ -60,7 +60,7 @@ export function LocationSection() {
                 <div className="w-12 h-12 bg-primary/10 rounded-2xl flex items-center justify-center">
                   <MapPin className="w-6 h-6 text-primary" />
                 </div>
-                <h3 className="text-foreground font-bold text-xl">Vår Plats</h3>
+                <h3 className="text-foreground font-bold text-xl">vår plats</h3>
               </div>
               <div className="p-6 bg-gradient-to-r from-muted to-transparent rounded-2xl border border-border/50">
                 <div className="flex items-start gap-4">
@@ -69,7 +69,7 @@ export function LocationSection() {
                   </div>
                   <div className="flex-1">
                     <h4 className="text-foreground font-semibold text-xl">Centrum, Falkenberg</h4>
-                    <p className="text-muted-foreground mt-2">Var huvudplats mitt i centrum!</p>
+                    <p className="text-muted-foreground mt-2">Huvudplatsen mitt i centrum!</p>
                     <span className="inline-block mt-3 text-secondary text-sm font-bold bg-secondary/10 px-4 py-2 rounded-lg">
                       Alla dagar
                     </span>
