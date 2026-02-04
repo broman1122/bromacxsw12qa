@@ -105,9 +105,7 @@ export const menuData: MenuCategory[] = [
       { id: "b2", name: "Hot N' Cheesy 2x90gr.", description: "Högkvalitativ nötkött, smörrostat briochebröd, Chili Majo, jalapeños, karameliserad lök, rostad lök och trippel cheddarost", priceEn: 125, category: "burgare", spicy: true },
       { id: "b3", name: "Hallomi Burger", description: "Chili Majo, Jalapeños, krispsallad, tomat, syltad rödlök och cheddarost.", priceEn: 120, category: "burgare", vegetarian: true },
       { id: "b4", name: "Grilled Chicken Classic", description: "Grillad kycklingfilé, krispsallad, tomat, picklad rödlök, krämig aioli i mjukt briochebröd.
-", priceEn: 120, category: "burgare" }, 
-    
-    ],
+", priceEn: 120, category: "burgare" }, ],
   },
   {
     id: "shawarma",
