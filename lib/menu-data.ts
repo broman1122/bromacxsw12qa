@@ -101,11 +101,11 @@ export const menuData: MenuCategory[] = [
     name: "Burgare / Smash",
     icon: "sandwich",
     items: [
-      { id: "b1", name: "Cheeseburger", description: "Högkvalitativ nötkött, smörrostat briochebröd, dubbel cheddarost, hackad gullök, picklad gurka, ketchup och senap", priceEn: 120, category: "burgare" },
-      { id: "b2", name: "Hot N' Cheesy 2x90gr.", description: "Högkvalitativ nötkött, smörrostat briochebröd, Chili Majo, jalapeños, karameliserad lök, rostad lök och trippel cheddarost", priceEn: 125, category: "burgare", spicy: true },
-      { id: "b3", name: "Hallomi Burger", description: "Chili Majo, Jalapeños, krispsallad, tomat, syltad rödlök och cheddarost.", priceEn: 120, category: "burgare", vegetarian: true },
-      { id: "b4", name: "Grilled Chicken Classic", description: "Grillad kycklingfilé, krispsallad, tomat, picklad rödlök, krämig aioli i mjukt briochebröd.
-", priceEn: 120, category: "burgare" }, ],
+      { id: "b1", name: "Classic Smash", description: "Dubbel smash(2x90g), cheddar, pickles, lök, house-sås, brioche", priceEn: 120, category: "burgare" },
+      { id: "b2", name: "Spicy Jalapeño Smash", description: "Dubbel smash(2x90g), cheddar, jalapeño-mayo, picklad jalapeño,brioche", priceEn: 125, category: "burgare", spicy: true },
+      { id: "b3", name: "Halloumi Smash", description: "Grillad halloumi, chimichurri, picklad rödlök, sallad,brioche", priceEn: 120, category: "burgare", vegetarian: true },
+      { id: "b4", name: "Grilled Chicken Classic", description: "Grillad kyckling, sallad, pickles, aioli, brioche", priceEn: 120, category: "burgare" },
+    ],
   },
   {
     id: "shawarma",
